@@ -1,5 +1,4 @@
 
-
 input[type=radio]{
   margin-right: 8px;
 }
@@ -7,3 +6,10 @@ input[type=radio]{
 #ame{
   margin-left: 15px;
 }
+
+.warning{
+  color: red;
+}
+
+
+#success_message{ display: none;}
